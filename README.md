@@ -11,4 +11,4 @@ I’m a Software Engineering graduate from the University of Ottawa with a passi
 
 🔧 Tech Stack: Python, JavaScript, C, C++, Java, PL/SQL, React, Node.js, Express, PostgreSQL, Docker, Firebase, and more.
 
-Currently seeking full-time opportunities in software engineering, networking, or testing. Let’s connect!
+Currently seeking full-time opportunities in software engineering, networking, or testing.
